@@ -1,0 +1,27 @@
+/* krutidev */
+@font-face {
+  font-family: 'Font1';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/khanzafar44/font/raw/main/k010.TTF) format('ttf');
+  
+}
+/* krutidev */
+@font-face {
+  font-family: 'Font1';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/khanzafar44/font/raw/main/kruti_dev_010.woff) format('woff');
+  
+}
+/* kruti */
+@font-face {
+  font-family: 'Font1';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/khanzafar44/font/raw/main/kruti_dev_010.woff2) format('woff2');
+ 
+}
